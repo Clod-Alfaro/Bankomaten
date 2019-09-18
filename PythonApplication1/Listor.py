@@ -8,12 +8,12 @@ class Player:
 
 listOfPlayers = []
 
-player1 = Player()   
-player1.Namn = "Peter Forsberg"
+player1 = Player()    
+player1.Namn = "Peter Forsberg" 
 player1.JerseyNumber = 13 
 player1.SkoStorlek = 44
 player1.ScoresThisSeason = 12
-player1.HasHair = True
+player1.HasHair = True 
 listOfPlayers.append(player1)
 
 player2 = Player()   
