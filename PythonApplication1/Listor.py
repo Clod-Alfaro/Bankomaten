@@ -9,17 +9,17 @@ class Player:
 listOfPlayers = []
 
 player1 = Player()    
-player1.Namn = "Peter Forsberg" 
+player1.Namn = "Peter Forsberg"    
 player1.JerseyNumber = 13 
 player1.SkoStorlek = 44
 player1.ScoresThisSeason = 12
-player1.HasHair = True 
+player1.HasHair = True     
 listOfPlayers.append(player1)
 
 player2 = Player()   
 player2.Namn = "Mats Sundin"
 player2.JerseyNumber = 21
-player2.SkoStorlek = 43
+player2.SkoStorlek = 43  
 player2.ScoresThisSeason = 4
 player2.HasHair = False
 listOfPlayers.append(player2)
